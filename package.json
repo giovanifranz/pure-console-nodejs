@@ -1,0 +1,26 @@
+{
+  "name": "pure-console",
+  "version": "1.0.0",
+  "description": "pure console nodejs",
+  "main": "console.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "dev": "node console.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/giovanifranz/pure-console-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "console"
+  ],
+  "author": "Giovani Franz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanifranz/pure-console-nodejs/issues"
+  },
+  "homepage": "https://github.com/giovanifranz/pure-console-nodejs#readme"
+}
